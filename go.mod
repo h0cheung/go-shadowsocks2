@@ -1,4 +1,4 @@
-module github.com/Dreamacro/go-shadowsocks2
+module github.com/h0cheung/go-shadowsocks2
 
 go 1.15
 
